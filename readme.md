@@ -13,3 +13,6 @@ npm install @react-navigation/native
 // Tailwindcss-react-native - https://www.npmjs.com/package/tailwindcss-react-native
 npm install tailwindcss-react-native
 npm install --save-dev tailwindcss
+
+// ICONS
+https://www.npmjs.com/package/react-native-heroicons
