@@ -15,8 +15,8 @@ import {
 	SearchIcon,
 } from "react-native-heroicons/outline";
 // Components
-import Categories from "./components/Categories";
-import FeaturedRow from "./components/FeaturedRow";
+import Categories from "../components/Categories";
+import FeaturedRow from "../components/FeaturedRow";
 import sanityClient from "../sanity";
 
 const HomeScreen = () => {

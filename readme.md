@@ -1,5 +1,7 @@
 Let's build Deliveroo 2.0 with REACT NATIVE! (Navigation, Redux, Tailwind CSS & Sanity.io)
-https://www.youtube.com/watch?v=taPz40VmyzQ&list=PLarNZuDdzRuyyRV_o9ZptEbw0YAwnJKYH&index=2&t=929s
+https://www.youtube.com/watch?v=taPz40VmyzQ&list=PLarNZuDdzRuyyRV_o9ZptEbw0YAwnJKYH&index=2
+
+2:43:00
 
 React native
 https://expo.dev/
@@ -23,6 +25,7 @@ https://www.sanity.io/
 install
 npm install -g @sanity/cli
 sanity init --coupon sonny2022
+npm install @reduxjs/toolkit react-redux
 
 First: cd G:\React_React Native\foodie-yt - to enter project’s directory
 Then: sanity start - to run Sanity Studio
@@ -34,6 +37,7 @@ sanity manage - to open the project settings in a browser
 sanity help - to explore the CLI manual
 
 // RUN FE
+\foodie
 expo start
 
 // RUN SANITY
