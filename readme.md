@@ -1,7 +1,7 @@
 Let's build Deliveroo 2.0 with REACT NATIVE! (Navigation, Redux, Tailwind CSS & Sanity.io)
 https://www.youtube.com/watch?v=taPz40VmyzQ&list=PLarNZuDdzRuyyRV_o9ZptEbw0YAwnJKYH&index=2
 
-2:43:00
+3:10:00 / 3:46:19
 
 React native
 https://expo.dev/
@@ -15,6 +15,13 @@ npm install @react-navigation/native
 // Tailwindcss-react-native - https://www.npmjs.com/package/tailwindcss-react-native
 npm install tailwindcss-react-native
 npm install --save-dev tailwindcss
+
+// Animation
+npm i react-native-animatable
+npm i react-native-progress
+
+// Map
+expo install react-native-maps
 
 // ICONS
 https://www.npmjs.com/package/react-native-heroicons
